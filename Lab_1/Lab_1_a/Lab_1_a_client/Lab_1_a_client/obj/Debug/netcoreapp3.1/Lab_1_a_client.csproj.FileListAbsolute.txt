@@ -1,0 +1,15 @@
+E:\3rd-course\2nd-sem\ASP\Lab_1\Lab_1_a\Lab_1_a_client\Lab_1_a_client\obj\Debug\netcoreapp3.1\Lab_1_a_client.csprojAssemblyReference.cache
+E:\3rd-course\2nd-sem\ASP\Lab_1\Lab_1_a\Lab_1_a_client\Lab_1_a_client\obj\Debug\netcoreapp3.1\Lab_1_a_client.Form1.resources
+E:\3rd-course\2nd-sem\ASP\Lab_1\Lab_1_a\Lab_1_a_client\Lab_1_a_client\obj\Debug\netcoreapp3.1\Lab_1_a_client.csproj.GenerateResource.cache
+E:\3rd-course\2nd-sem\ASP\Lab_1\Lab_1_a\Lab_1_a_client\Lab_1_a_client\obj\Debug\netcoreapp3.1\Lab_1_a_client.AssemblyInfoInputs.cache
+E:\3rd-course\2nd-sem\ASP\Lab_1\Lab_1_a\Lab_1_a_client\Lab_1_a_client\obj\Debug\netcoreapp3.1\Lab_1_a_client.AssemblyInfo.cs
+E:\3rd-course\2nd-sem\ASP\Lab_1\Lab_1_a\Lab_1_a_client\Lab_1_a_client\obj\Debug\netcoreapp3.1\Lab_1_a_client.csproj.CoreCompileInputs.cache
+E:\3rd-course\2nd-sem\ASP\Lab_1\Lab_1_a\Lab_1_a_client\Lab_1_a_client\bin\Debug\netcoreapp3.1\Lab_1_a_client.exe
+E:\3rd-course\2nd-sem\ASP\Lab_1\Lab_1_a\Lab_1_a_client\Lab_1_a_client\bin\Debug\netcoreapp3.1\Lab_1_a_client.deps.json
+E:\3rd-course\2nd-sem\ASP\Lab_1\Lab_1_a\Lab_1_a_client\Lab_1_a_client\bin\Debug\netcoreapp3.1\Lab_1_a_client.runtimeconfig.json
+E:\3rd-course\2nd-sem\ASP\Lab_1\Lab_1_a\Lab_1_a_client\Lab_1_a_client\bin\Debug\netcoreapp3.1\Lab_1_a_client.runtimeconfig.dev.json
+E:\3rd-course\2nd-sem\ASP\Lab_1\Lab_1_a\Lab_1_a_client\Lab_1_a_client\bin\Debug\netcoreapp3.1\Lab_1_a_client.dll
+E:\3rd-course\2nd-sem\ASP\Lab_1\Lab_1_a\Lab_1_a_client\Lab_1_a_client\bin\Debug\netcoreapp3.1\Lab_1_a_client.pdb
+E:\3rd-course\2nd-sem\ASP\Lab_1\Lab_1_a\Lab_1_a_client\Lab_1_a_client\obj\Debug\netcoreapp3.1\Lab_1_a_client.dll
+E:\3rd-course\2nd-sem\ASP\Lab_1\Lab_1_a\Lab_1_a_client\Lab_1_a_client\obj\Debug\netcoreapp3.1\Lab_1_a_client.pdb
+E:\3rd-course\2nd-sem\ASP\Lab_1\Lab_1_a\Lab_1_a_client\Lab_1_a_client\obj\Debug\netcoreapp3.1\Lab_1_a_client.genruntimeconfig.cache
